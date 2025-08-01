@@ -2,6 +2,7 @@
 
 A simple referral system with backend (Node.js/Express) and frontend (HTML/CSS/JavaScript) components.
 
+![Pageview](./frontend/assets/images/pageview.png)
 ## Features
 
 - User registration with name and email
