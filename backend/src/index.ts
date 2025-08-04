@@ -1,6 +1,9 @@
+import dotenv from 'dotenv';
+
 import app from './app';
 import { AppError } from './types';
 
+dotenv.config();
 const PORT = process.env.PORT || 3000;
 
 // Start server
